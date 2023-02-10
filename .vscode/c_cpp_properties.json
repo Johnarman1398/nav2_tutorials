@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/rosi/ros2_ws/install/matrix_interfaces/include/**",
+        "/home/rosi/ros2_ws/install/count_interfaces/include/**",
+        "/home/rosi/nav2_ws/install/turtlebot3_gazebo/include/**",
+        "/home/rosi/nav2_ws/install/turtlebot3_fake_node/include/**",
+        "/opt/ros/foxy/include/**",
+        "/home/rosi/ros2_ws/src/basic_action_client/include/**",
+        "/home/rosi/ros2_ws/src/basic_pub_sub/include/**",
+        "/home/rosi/ros2_ws/src/basic_srv_cli/include/**",
+        "/home/rosi/ros2_ws/src/count_interfaces/include/**",
+        "/home/rosi/ros2_ws/src/matrix_interfaces/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
