@@ -4,7 +4,7 @@
   <name>count_interfaces</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="dejanira_araiza@artc.a-star.edu.sg">rosi</maintainer>
+  <maintainer email="stu-johnarmana@artc.a-star.edu.sg">rosi</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
